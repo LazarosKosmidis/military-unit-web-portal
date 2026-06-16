@@ -21,5 +21,6 @@ Full-stack web application developed during military service for internal organi
 ## Purpose
 
 Designed to simplify access to local services and improve communication workflows within the organization.
-<img width="1885" height="903" alt="image" src="https://github.com/user-attachments/assets/23e7ae90-3a56-4c1c-9f42-acc2c862819f" />
+<img width="1912" height="912" alt="image" src="https://github.com/user-attachments/assets/c8973ea0-3f77-4068-85b6-193c3acde814" />
+
 
